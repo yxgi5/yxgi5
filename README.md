@@ -3,7 +3,7 @@
 ### 🌱 About me
 - FPGA / Embedded software engineer
 - Interested in image processing
-- [Overview:https://yxgi5.github.io](https://yxgi5.github.io)
+- Overview: [https://yxgi5.github.io](https://yxgi5.github.io)
 
 ---
 
