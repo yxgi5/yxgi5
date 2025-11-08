@@ -2,7 +2,7 @@
 
 ### 🌱 About me
 - FPGA / Embedded software engineer
-- Interested in image processing & HLS
+- [over all view of my repos](https://yxgi5.github.io)
 
 ---
 
