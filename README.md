@@ -14,4 +14,4 @@
 
 ### 🔥 Streak & Activity
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yxgi5&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yxgi5&theme=tokyo-night)
+![Activity Graph](https://ghchart.rshah.org/yxgi5)
